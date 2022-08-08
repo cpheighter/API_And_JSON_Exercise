@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EO0LC5PLuaYB+yezK8XLwktDohImc7R/aFdtfv4Zh+K8E1TNnt5oekoXciYDRHk9EHb4teFMGJzK6t5CVuyxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heigh\\Desktop\\Repos\\API_And_JSON_Exercise\\API_And_JSON_Exercise\\API_And_JSON_Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heigh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

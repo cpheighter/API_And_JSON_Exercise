@@ -1,0 +1,17 @@
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\API_And_JSON_Exercise.exe
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\API_And_JSON_Exercise.deps.json
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\API_And_JSON_Exercise.runtimeconfig.json
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\API_And_JSON_Exercise.dll
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\API_And_JSON_Exercise.pdb
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.csproj.AssemblyReference.cache
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.AssemblyInfoInputs.cache
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.AssemblyInfo.cs
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.csproj.CopyComplete
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.dll
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\refint\API_And_JSON_Exercise.dll
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.pdb
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\API_And_JSON_Exercise.genruntimeconfig.cache
+C:\Users\heigh\Desktop\Repos\API_And_JSON_Exercise\API_And_JSON_Exercise\obj\Debug\net6.0\ref\API_And_JSON_Exercise.dll
